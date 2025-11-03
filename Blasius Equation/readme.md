@@ -19,7 +19,7 @@ This project solves the 2D laminar boundary layer over a flat plate using finite
 - At \(x = 0\): \(u = 1\) except at the wall, where \(u = 0\)
 
 ## Parameters
-All numerical and physical parameters (Reynolds number, domain size, grid spacing) can be set at the top of the script for easy adjustment.
+All numerical and physical parameters (domain size, grid spacing) can be set at the top of the script for easy adjustment.
 
 ---
 
